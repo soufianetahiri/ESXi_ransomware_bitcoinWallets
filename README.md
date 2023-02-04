@@ -1,7 +1,7 @@
 
 # Background
-https://blog.ovhcloud.com/ransomware-targeting-vmware-esxi/
-https://twitter.com/ValeryMarchive/status/1621528499315150849
+- https://blog.ovhcloud.com/ransomware-targeting-vmware-esxi/
+- https://twitter.com/ValeryMarchive/status/1621528499315150849
 
 # Ransomware note example:
 
