@@ -3,7 +3,7 @@
 - https://blog.ovhcloud.com/ransomware-targeting-vmware-esxi/
 - https://twitter.com/ValeryMarchive/status/1621528499315150849
 
-# Ransomware note example:
+# Ransomnote example:
 
 ![image](https://user-images.githubusercontent.com/17729335/216766708-6b228025-df1f-4f70-aaa7-2691add2aa99.png)
 
